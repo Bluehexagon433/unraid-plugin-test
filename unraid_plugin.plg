@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin>
+    <name>unraid-plugin-test</name>
+    <author>Normen Düring</author>
+    <version>0.1.0</version>
+    <min-unraid-version>6.12.0</min-unraid-version>
+    <description>This is a simple plugin for testing and learning Unraid plugin development.</description>
+    <url>https://yoururl.com/unraid_plugin.plg</url>
+</plugin>
