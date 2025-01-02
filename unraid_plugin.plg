@@ -5,5 +5,5 @@
     <version>0.1.0</version>
     <min-unraid-version>6.12.0</min-unraid-version>
     <description>This is a simple plugin for testing and learning Unraid plugin development.</description>
-    <url>https://yoururl.com/unraid_plugin.plg</url>
+    <url>https://raw.githubusercontent.com/Bluehexagon433/unraid-plugin-test/refs/heads/main/unraid_plugin.plg</url>
 </plugin>
